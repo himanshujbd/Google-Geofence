@@ -1,0 +1,27 @@
+
+c
+3app/src/main/java/com/googlegeofenceapi/Reminder.kt,2/f/2fa88693c28250b2ee004a238c2ea11ecc9f6636
+m
+=app/src/main/java/com/googlegeofenceapi/ReminderRepository.kt,c/2/c2207ec42bba8f80da8a4360a9def517a11a7fe8
+`
+0app/src/main/java/com/googlegeofenceapi/Utils.kt,2/f/2fc9024f559a8af146a0b56487c7c8d664dc1c5b
+~
+Napp/src/main/java/com/googlegeofenceapi/GeofenceTransitionsJobIntentService.kt,7/b/7bdc5f1773bee75ad00563973cdabad7f6f99e0c
+@
+app/build.gradle,f/4/f4a01d6a4fcb971362ec00a83903fd3902f52164
+P
+ app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
+g
+7app/src/main/java/com/googlegeofenceapi/MainActivity.kt,0/8/0863d624c1f04ec5fb1a96d39a8faf3901079371
+Y
+)app/src/main/res/layout/activity_main.xml,7/6/76b07e40f24cce093536731477540f12e7da3cb6
+n
+>app/src/main/java/com/googlegeofenceapi/NewReminderActivity.kt,1/c/1c455391e682c17ff70b04f29e3bfabca6f3c665
+g
+7app/src/main/java/com/googlegeofenceapi/BaseActivity.kt,9/e/9ea7c88babd339f7fea131da029d8c7b57e1df20
+t
+Dapp/src/main/java/com/googlegeofenceapi/GeofenceBroadcastReceiver.kt,e/1/e165d9480d9c4e395f7bbdde1a44a8355336c4b7
+p
+@app/src/main/java/com/googlegeofenceapi/GeofenceErrorMessages.kt,c/e/ce5aec1c2e9dd15d71f08e79cb0241bc7f078bb2
+f
+6app/src/main/java/com/googlegeofenceapi/ReminderApp.kt,a/a/aa0d2be5e1e9933ca456d5c000361643892df2fe
